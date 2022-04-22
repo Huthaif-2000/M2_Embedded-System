@@ -17,3 +17,5 @@
 [![cpp_check](https://github.com/Huthaif-2000/M2_Embedded-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Huthaif-2000/M2_Embedded-System/actions/workflows/cppcheck.yml)
 
 [![unity](https://github.com/Huthaif-2000/M2_Embedded-System/actions/workflows/unity.yml/badge.svg)](https://github.com/Huthaif-2000/M2_Embedded-System/actions/workflows/unity.yml)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e584508109574c61970ed2c94a7e5d8e)](https://www.codacy.com/gh/Huthaif-2000/M2_Embedded-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Huthaif-2000/M2_Embedded-System&amp;utm_campaign=Badge_Grade)
