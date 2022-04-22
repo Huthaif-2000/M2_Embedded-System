@@ -15,3 +15,5 @@
 [![Contribution Check - Git Inspector](https://github.com/Huthaif-2000/M2_Embedded-System/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Huthaif-2000/M2_Embedded-System/actions/workflows/git_inspector.yml)
 
 [![cpp_check](https://github.com/Huthaif-2000/M2_Embedded-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Huthaif-2000/M2_Embedded-System/actions/workflows/cppcheck.yml)
+
+[![unity](https://github.com/Huthaif-2000/M2_Embedded-System/actions/workflows/unity.yml/badge.svg)](https://github.com/Huthaif-2000/M2_Embedded-System/actions/workflows/unity.yml)
